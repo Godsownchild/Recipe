@@ -1,0 +1,18 @@
+
+@font-face {
+    font-family: 'Alice', serif;
+    font-style: normal;
+    font-weight: 400;
+    /*src: local('Lato Bold'), local('Lato-Bold'),*/
+    url('/fonts/Alice/Alice-Regular.ttf') format('ttf');
+
+}
+
+@font-face {
+    font-family: 'El Messiri', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    src: local('Lato Regular'), local('Lato-Regular'),
+    url('static/assets/fonts/El_Messiri/ElMessiri-Regular.ttf') format('tff'); /* Chrome 26+, Opera 23+, Firefox 39+ */
+
+}
